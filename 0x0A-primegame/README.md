@@ -43,6 +43,6 @@ Result: Ben has the most wins
     carrie@ubuntu:~/0x0A-primegame$
 
 Repo:
-- GitHub repository: holbertonschool-interview
+- GitHub repository: alx-interview
 - Directory: 0x0A-primegame
 - File: 0-prime_game.py
